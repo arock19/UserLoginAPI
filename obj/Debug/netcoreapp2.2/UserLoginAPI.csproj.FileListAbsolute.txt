@@ -1,0 +1,14 @@
+C:\Users\guptaa5\Desktop\UserLoginAPI\bin\Debug\netcoreapp2.2\UserLoginAPI.deps.json
+C:\Users\guptaa5\Desktop\UserLoginAPI\bin\Debug\netcoreapp2.2\UserLoginAPI.runtimeconfig.json
+C:\Users\guptaa5\Desktop\UserLoginAPI\bin\Debug\netcoreapp2.2\UserLoginAPI.runtimeconfig.dev.json
+C:\Users\guptaa5\Desktop\UserLoginAPI\bin\Debug\netcoreapp2.2\UserLoginAPI.dll
+C:\Users\guptaa5\Desktop\UserLoginAPI\bin\Debug\netcoreapp2.2\UserLoginAPI.pdb
+C:\Users\guptaa5\Desktop\UserLoginAPI\obj\Debug\netcoreapp2.2\UserLoginAPI.csprojAssemblyReference.cache
+C:\Users\guptaa5\Desktop\UserLoginAPI\obj\Debug\netcoreapp2.2\UserLoginAPI.csproj.CoreCompileInputs.cache
+C:\Users\guptaa5\Desktop\UserLoginAPI\obj\Debug\netcoreapp2.2\UserLoginAPI.RazorAssemblyInfo.cache
+C:\Users\guptaa5\Desktop\UserLoginAPI\obj\Debug\netcoreapp2.2\UserLoginAPI.RazorAssemblyInfo.cs
+C:\Users\guptaa5\Desktop\UserLoginAPI\obj\Debug\netcoreapp2.2\UserLoginAPI.AssemblyInfoInputs.cache
+C:\Users\guptaa5\Desktop\UserLoginAPI\obj\Debug\netcoreapp2.2\UserLoginAPI.AssemblyInfo.cs
+C:\Users\guptaa5\Desktop\UserLoginAPI\obj\Debug\netcoreapp2.2\UserLoginAPI.RazorTargetAssemblyInfo.cache
+C:\Users\guptaa5\Desktop\UserLoginAPI\obj\Debug\netcoreapp2.2\UserLoginAPI.dll
+C:\Users\guptaa5\Desktop\UserLoginAPI\obj\Debug\netcoreapp2.2\UserLoginAPI.pdb
