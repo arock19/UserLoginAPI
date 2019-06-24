@@ -2,7 +2,7 @@ namespace UserLoginAPI.Controllers
 {
     public class User
     {
-        public string Username;
+        public string Username {get; set; }
         public string Password { get; set; }
     }
 }
