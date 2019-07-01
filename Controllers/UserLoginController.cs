@@ -7,7 +7,7 @@ namespace UserLoginAPI.Controllers
     public class UserLoginController : AbstractController{
         
         [HttpPost("Add")]
-        public string addUserLogin([FromBody] User user){//checked --works
+        public string addUserLogin([FromBody] UserLogin user){//checked --works
             string queryString = "EXEC addUser '" + user.Username + 
             "' , '" + user.Password + "' ;";
             try{
@@ -20,14 +20,14 @@ namespace UserLoginAPI.Controllers
         }
 
         [HttpPost("Check")]
-        public IActionResult checkUserLogin([FromBody] User userInput){//checked --works
+        public IActionResult checkUserLogin([FromBody] UserLogin userInput){//checked --works
             // System.Console.WriteLine(userInput1);
             // return true;
             // User userInput = new User{
             //     Username = "avd",
             //     Password = "dsvv"
             // };
-            User userActual = null;
+            UserLogin userActual = null;
             System.Console.Write(userInput);
             try{
                 userActual = DBWrapper.getUserLoginData(userInput.Username);  
@@ -54,7 +54,7 @@ namespace UserLoginAPI.Controllers
         // }
 
         [HttpPost("Update")]
-        public bool updateUserLogin([FromBody] User user){//checked --works
+        public bool updateUserLogin([FromBody] UserLogin user){//checked --works
             string queryString = "EXEC updateUser '" + user.Username + 
             "' , '" + user.Password + "' ;";
             try{
